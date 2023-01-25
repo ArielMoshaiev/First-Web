@@ -1,0 +1,208 @@
+    body
+    {
+        font-family: 'Sofia Sans Condensed', sans-serif;
+        margin: 0;
+        text-align: center;
+        font-size: 22px;
+        color: #1c2322;
+        
+        
+
+    }
+    hr
+    {
+        border: dotted #ace8f0 5px;
+        border-bottom: none;
+        width: 3%;
+        margin: 100px auto 75px auto;
+    }
+    .container1
+    {
+        background-color: #95dce6;
+        margin-top: 0;
+        margin-bottom: 0px;
+        
+
+    }
+
+    h1
+    {
+        font-family: 'Dancing Script', cursive;
+        padding-top: 100px;
+        padding-bottom: 0px;
+        font-size: 350%;
+        margin-top: 0;
+    }
+
+    .description
+    {
+        font-size: 160%;
+    }
+
+    .img1
+    {
+        height: 310px;
+        width: 310px;
+
+    }
+    .hello-title
+    {
+        margin: 70px 0 50px 0;
+        font-size: 150%;
+    }
+    .hello-des
+    {
+        font-size: 110%;
+    }
+    .profile-pic
+    {
+        width: 200px;
+        height: 200px;
+        border-radius: 50%;
+    }
+    .hobbies-title
+    {
+        font-size: 150%;
+    }
+    .hobbies-con
+    {
+        margin-top: 50px;
+        display: grid;
+    }
+   
+    .hobbies-des
+    {
+        font-size: 110%;
+        margin-top: 5px;
+        margin-bottom: 40px;
+        font-weight: lighter;
+
+    }
+    
+    .football
+    {
+        height: 140px;
+        width: 140px;
+        border-radius: 50%;
+        border: solid;
+        border-color: #95dce6;
+        border-width: 2px;
+        float: left;
+        margin-left: 34%;
+    }
+    .football-title
+    {
+        margin: 60px 270px 0 0 ;
+    }
+    .basketball
+    {
+        height: 140px;
+        width: 140px;
+        border-radius: 50%;
+        border: solid;
+        border-color: #95dce6;
+        border-width: 2px;
+        float: right;
+        margin-right: 34%;
+    }
+    .basketball-title
+    {
+        margin: 60px 0 0 270px ;
+    }
+    .table-tennis
+    {
+        height: 140px;
+        width: 140px;
+        border-radius: 50%;
+        border: solid;
+        border-color: #95dce6;
+        border-width: 2px;
+        float: left;
+        margin-left: 34%;
+    }
+    .table-tennis-title
+    {
+        margin: 60px 270px 0 0 ;
+    }
+    .boxing
+    {
+        height: 140px;
+        width: 140px;
+        border-radius: 50%;
+        border: solid;
+        border-color: #95dce6;
+        border-width: 2px;
+        float: right;
+        margin-right: 34%;
+    }
+    .boxing-title
+    {
+        margin: 60px 0 0 270px ;
+    }
+    .chess
+    {
+        height: 140px;
+        width: 140px;
+        border-radius: 50%;
+        border: solid;
+        border-color: #95dce6;
+        border-width: 2px;
+        float: left;
+        margin-left: 34%;
+    }
+    .chess-title
+    {
+        margin: 60px 270px 0 0 ;
+    }
+    .btn1 {
+        background: #ffffff;
+        background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+        background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+        background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+        -webkit-border-radius: 10;
+        -moz-border-radius: 10;
+        border-radius: 10px;
+        text-shadow: 0px 0px 3px #000000;
+        font-family: 'Sofia Sans Condensed', sans-serif;
+        color: #000000;
+        font-size: 23px;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+      }
+      
+      .btn1:hover {
+        background: #95dce6;
+        text-decoration: none;
+      }
+    .container5
+    {
+        background-color: #95dce6;
+        margin-top: 30px;
+        margin-bottom: 0px;
+        padding-top: 20px;
+    }
+    a
+    {
+        font-family: 'Sofia Sans Condensed', sans-serif;
+        margin: 10px 20px;
+        text-decoration: none;
+        color: #EAF6F6;
+    }
+    a:hover{
+        color: #1c2322;
+    }
+    .copyright
+    {
+        margin-bottom: 0;
+        padding: 15px;
+        font-size: 75%;
+        color: #EAF6F6;
+    }
+
+
+
+   
+
+    
